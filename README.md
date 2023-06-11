@@ -1,3 +1,5 @@
+В этом репозитории представлены эксперименты с применением архитектуры WiCoNet для сегментации облаков, теней и снега на спутниковых снимках.
+
 # WiCoNet
 Pytorch codes of 'Looking Outside the Window: Wider Context Transformer for the Semantic Segmentation of High-Resolution Remote Sensing Images' [[paper]](https://doi.org/10.1109/TGRS.2022.3168697)
 
